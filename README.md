@@ -1,4 +1,4 @@
-# AUsenseR-mc_multiple-randomization
+# AUsenseR-mc_widgets-randomization
 This repository contains a small JavaScript snippet for AUsenseR / formr that randomises the **display order** of answer options in `mc_multiple` and `mc_button` widgets.
 
 It is **opt-in**: only items explicitly marked in the survey sheet are affected.
