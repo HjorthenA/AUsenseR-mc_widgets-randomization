@@ -45,7 +45,5 @@ Randomise everything (no fixed last options):
 
 ### 3) Run: paste the JavaScript in settings
 
-Navigate to your run in AUsenseR/formr and paste the JavaScript: 
+Navigate to your run in AUsenseR/formr and paste the JavaScript:  
 `Runs → [The run] → Configuration: Settings → JS`
-
-`Run → Special settings → JavaScript`
