@@ -1,6 +1,4 @@
 # AUsenseR-mc_multiple-randomization
-Javascript to define in run settings, which randomizes item order.
-
 This repository contains a small JavaScript snippet for AUsenseR / formr that randomises the **display order** of answer options in `mc_multiple` items.
 
 It is **opt-in**: only items explicitly marked in the survey sheet are affected.
