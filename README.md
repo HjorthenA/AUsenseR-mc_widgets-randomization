@@ -25,6 +25,8 @@ Example:
 
 `mc_multiple` questions without `mc_multiple_rand` defined in class keeps original order defined in choices (choice1, choice2).
 
+Google spreadsheet example: [Widgets example](https://docs.google.com/spreadsheets/d/1Dvs9xYwguMcujtDr0Ze6MNAx6paH1KIWNu84JNXS0ZY/edit?gid=0#gid=0)
+
 ### 2) Survey sheet: keep specific options last (optional)
 
 Add one or more `last__...` tokens in the `class` column. Please note that it uses double underscore (__)
