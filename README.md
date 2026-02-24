@@ -21,7 +21,7 @@ Example:
 
 | class | type | name |
 |------|------|------|
-mc_vertical label_align_left **mc_multiple_rand** | mc_multiple | q1
+**mc_multiple_rand** | mc_multiple | q1
 
 `mc_multiple` questions without `mc_multiple_rand` defined in class keeps original order defined in choices (choice1, choice2).
 
